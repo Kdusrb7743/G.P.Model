@@ -165,8 +165,8 @@ I Studio 위쪽 철벽 긴 사이드 / 3
 실습실 바닥타일텍스처 55
 
 실습실 323호 전체 크기
-가로 907.5
-세로 1155
+가로 907.5   ->  900
+세로 1155   ->  1200
 층고 255 + 5
 
 
@@ -318,4 +318,19 @@ I Studio 위쪽 철벽 긴 사이드 / 3
 가로 240
 세로 55
 높이 80(떠있는 - 포함) , 15 (시멘트 물체)
+
+
+창문 오브젝트 개수.
+작업 완료 1 - 2층 현관 
+ISWindow
+TRDoor_front_Ori
+TRDoor_Back_Ori
+TRWindow_Ori
+PRWindow
+2.5FloorWindow
+
+미완
+
+2FloorEntranceWindow
+
 
